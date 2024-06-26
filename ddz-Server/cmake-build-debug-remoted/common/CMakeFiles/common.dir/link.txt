@@ -1,2 +1,0 @@
-/usr/bin/ar qc libcommon.a  CMakeFiles/common.dir/Buffer.cpp.o CMakeFiles/common.dir/Channel.cpp.o
-/usr/bin/ranlib libcommon.a

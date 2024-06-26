@@ -1,2 +1,0 @@
-/usr/bin/ar qc libdatabase.a  CMakeFiles/database.dir/MySqlConn.cpp.o
-/usr/bin/ranlib libdatabase.a
