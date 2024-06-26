@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/ddz_Server.dir/main.cpp.o  -o ../bin/ddz_Server   -L/home/xiaxia0414/openssl  -Wl,-rpath,/home/xiaxia0414/openssl tcp/libtcp.a thread/libthread.a http/libhttp.a reactor/libreactor.a common/libcommon.a test/libtest.a serialize/libserialize.a crypto/libmycrypto.a game/libgame.a -lpthread -lprotobuf -lcrypto 

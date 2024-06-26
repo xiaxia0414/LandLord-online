@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/CMakeLists.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/Buffer.cpp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/JsonParse.cpp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/Log.h" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/database/MySqlConn.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/game/Communication.cpp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/http/HttpResponse.cpp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/reactor/Dispatcher.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/tcp/TcpConnection.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/tcp/TcpConnection.h" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tcp/TcpServer.cpp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tcp/TcpServer.h" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

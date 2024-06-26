@@ -1,0 +1,376 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "D:/Users/Hasee/Desktop/myProject/LandLords_online/ddz-Server/bin/ddz_Server.exe"
+		},
+		{
+			"path" : "D:/Users/Hasee/Desktop/myProject/LandLords_online/ddz-Server/bin/ddz_Server.pdb"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable",
+			"link_directories",
+			"target_link_libraries",
+			"include_directories"
+		],
+		"files" : 
+		[
+			"CMakeLists.txt",
+			"thread/CMakeLists.txt",
+			"common/CMakeLists.txt",
+			"test/CMakeLists.txt",
+			"crypto/CMakeLists.txt",
+			"database/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 41,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 21,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 22,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 23,
+				"parent" : 0
+			},
+			{
+				"file" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 7,
+				"parent" : 5
+			},
+			{
+				"file" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 7,
+				"parent" : 7
+			},
+			{
+				"file" : 3
+			},
+			{
+				"command" : 2,
+				"file" : 3,
+				"line" : 6,
+				"parent" : 9
+			},
+			{
+				"file" : 4
+			},
+			{
+				"command" : 2,
+				"file" : 4,
+				"line" : 9,
+				"parent" : 11
+			},
+			{
+				"file" : 5
+			},
+			{
+				"command" : 2,
+				"file" : 5,
+				"line" : 7,
+				"parent" : 13
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 5,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g -std=gnu++17 -fdiagnostics-color=always"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 15,
+					"path" : "D:/Users/Hasee/Desktop/myProject/LandLords_online/ddz-Server/common"
+				},
+				{
+					"backtrace" : 15,
+					"path" : "D:/Users/Hasee/Desktop/myProject/LandLords_online/ddz-Server/http"
+				},
+				{
+					"backtrace" : 15,
+					"path" : "D:/Users/Hasee/Desktop/myProject/LandLords_online/ddz-Server/reactor"
+				},
+				{
+					"backtrace" : 15,
+					"path" : "D:/Users/Hasee/Desktop/myProject/LandLords_online/ddz-Server/tcp"
+				},
+				{
+					"backtrace" : 15,
+					"path" : "D:/Users/Hasee/Desktop/myProject/LandLords_online/ddz-Server/thread"
+				},
+				{
+					"backtrace" : 15,
+					"path" : "D:/Users/Hasee/Desktop/myProject/LandLords_online/ddz-Server/test"
+				},
+				{
+					"backtrace" : 15,
+					"path" : "/home/xiaxia0414/openssl/include"
+				},
+				{
+					"backtrace" : 15,
+					"path" : "D:/Users/Hasee/Desktop/myProject/LandLords_online/ddz-Server/crypto"
+				},
+				{
+					"backtrace" : 15,
+					"path" : "D:/Users/Hasee/Desktop/myProject/LandLords_online/ddz-Server/serialize"
+				},
+				{
+					"backtrace" : 15,
+					"path" : "D:/Users/Hasee/Desktop/myProject/LandLords_online/ddz-Server/game"
+				},
+				{
+					"backtrace" : 15,
+					"path" : "D:/Users/Hasee/Desktop/myProject/LandLords_online/ddz-Server/database"
+				},
+				{
+					"backtrace" : 15,
+					"path" : "/usr/include/mysql"
+				},
+				{
+					"backtrace" : 15,
+					"path" : "/usr/local/include/json"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					1
+				],
+				"standard" : "17"
+			},
+			"sourceIndexes" : 
+			[
+				0
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 1,
+			"id" : "common::@bfc844598bd03e848b3c"
+		},
+		{
+			"backtrace" : 1,
+			"id" : "http::@bd0a5d6c0bd9e6f494f8"
+		},
+		{
+			"backtrace" : 1,
+			"id" : "reactor::@9b10b1f55575ced20a91"
+		},
+		{
+			"backtrace" : 1,
+			"id" : "tcp::@8966b6d2f8df3a1515e1"
+		},
+		{
+			"backtrace" : 1,
+			"id" : "thread::@1994991b6c1bd8685afc"
+		},
+		{
+			"backtrace" : 1,
+			"id" : "mycrypto::@1d62b725e69adc70ad4a"
+		},
+		{
+			"backtrace" : 1,
+			"id" : "serialize::@f3c3b027229a9a158e24"
+		},
+		{
+			"backtrace" : 1,
+			"id" : "game::@0c53ff3c4131f9152fd3"
+		},
+		{
+			"backtrace" : 1,
+			"id" : "database::@c44ac6e9bb193d64d56d"
+		},
+		{
+			"backtrace" : 1,
+			"id" : "test::@36f028580bb02cc8272a"
+		}
+	],
+	"id" : "ddz_Server::@6890427a1f51a3e7e1df",
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "-g",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "-L\\usr\\lib\\x86_64-linux-gnu",
+				"role" : "libraryPath"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "-L\\home\\xiaxia0414\\openssl",
+				"role" : "libraryPath"
+			},
+			{
+				"backtrace" : 4,
+				"fragment" : "-L\\usr\\local\\lib",
+				"role" : "libraryPath"
+			},
+			{
+				"backtrace" : 1,
+				"fragment" : "tcp\\libtcp.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 1,
+				"fragment" : "thread\\libthread.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 1,
+				"fragment" : "http\\libhttp.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 1,
+				"fragment" : "reactor\\libreactor.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 1,
+				"fragment" : "common\\libcommon.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 1,
+				"fragment" : "test\\libtest.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 1,
+				"fragment" : "serialize\\libserialize.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 1,
+				"fragment" : "crypto\\libmycrypto.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 1,
+				"fragment" : "game\\libgame.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 1,
+				"fragment" : "database\\libdatabase.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "-lpthread",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 8,
+				"fragment" : "-ljsoncpp",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 10,
+				"fragment" : "-lprotobuf",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 1,
+				"fragment" : "crypto\\libmycrypto.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 12,
+				"fragment" : "-lcrypto",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 14,
+				"fragment" : "-lmysqlclient",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32",
+				"role" : "libraries"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "ddz_Server",
+	"nameOnDisk" : "ddz_Server.exe",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "main.cpp",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "EXECUTABLE"
+}

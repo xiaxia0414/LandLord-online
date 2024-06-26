@@ -1,0 +1,4 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" -S /home/xiaxia0414/myProject/ddz-Server -B /home/xiaxia0414/myProject/ddz-Server/cmake-build-debug-remote
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/xiaxia0414/myProject/ddz-Server/cmake-build-debug-remote
